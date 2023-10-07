@@ -5,7 +5,7 @@ I'm a 3rd year computer science specializing in SWE, AI, and business at the Uni
 I love collaborating in teams to create high-quality and sophisticated software.
 My preferred web stack involves React, NodeJS, and GraphQL, though I'm always excited to flex my other muscles.
 
-I'm currently building my own GPU rip and developing a starcraft 2 AI with RL and SL.
+I'm currently building my own $10k GPU rig to train my starcraft 2 AI bot with RL and SL.
 
 
 ## &#x1f4c8; GitHub Stats
@@ -16,9 +16,10 @@ I'm currently building my own GPU rip and developing a starcraft 2 AI with RL an
 
 ## 📫 Reach out on:
 <a href="https://twitter.com/CharlesLiu9"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/twitter.svg " height="40em" align="center" alt="Twitter" title="Twitter"/></a>
+<img src="https://raw.githubusercontent.com/lemonface0309/lemonface0309/main/assets/twitter.svg" align="center" alt="Twitter" title="Twitter"/></a>
 
 <a href="https://www.linkedin.com/in/charles-liu-%F0%9F%94%8C-294391152"> 
-<img src="https://raw.githubusercontent.com/eden-chan/eden-chan/main/assets/linkedin.png " height="40em" align="center" alt="LinkedIn" title="LinkedIn"/></a>
+<img src="https://raw.githubusercontent.com/lemonface0309/lemonface0309/main/assets/linkedin.svg" align="center" alt="LinkedIn" title="LinkedIn"/></a>
+
 
 
