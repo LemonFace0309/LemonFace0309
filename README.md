@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year computer science specializing in SWE, AI, and business at the University of Waterloo.
+I'm a 4th year computer science specializing in SWE, AI, and business at the University of Waterloo.
 
 I love collaborating in teams to create high-quality and sophisticated software.
 I build mostly in TS & Python with strong competences in React, Node, GraphQL, Tensorflow, and SQL dbs, though I'm always excited to flex my other muscles.
