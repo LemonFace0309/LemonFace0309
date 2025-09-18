@@ -13,7 +13,7 @@ Currently being elusive
 <a href="https://twitter.com/CharlesLiu9"> 
 <img src="https://raw.githubusercontent.com/lemonface0309/lemonface0309/main/assets/twitter.svg" align="center" alt="Twitter" title="Twitter"/></a>
 
-<a href="https://www.linkedin.com/in/charles-liu-%F0%9F%94%8C-294391152"> 
+<a href="https://www.linkedin.com/in/charles-liu-294391152"> 
 <img src="https://raw.githubusercontent.com/lemonface0309/lemonface0309/main/assets/linkedin.svg" align="center" alt="LinkedIn" title="LinkedIn"/></a>
 
 
